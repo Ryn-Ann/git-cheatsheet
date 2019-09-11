@@ -30,6 +30,16 @@ git commit -m "MESSAGE"
 -commits the stashed files to the repo and adds 
 the MESSAGE that describe what was done
 
+```bash
+git log
+```
+-shows a history of the commits made to this point in time
+
+```bash
+git log --all --decorate --oneline --graph
+```
+-shows all history of changes in one line
+
 ## Oher Git Things
 
 **.gitignore is a file that tells git files/folder that are
