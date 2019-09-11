@@ -29,4 +29,9 @@ git commit -m "MESSAGE"
 ```
 -commits the stashed files to the repo and adds 
 the MESSAGE that describe what was done
- 
+
+## Oher Git Things
+
+**.gitignore is a file that tells git files/folder that are
+not to be part of the repository (that is - ignored when
+adding/commiting
